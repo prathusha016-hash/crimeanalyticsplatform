@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Predict Case Outcome</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="intro">
+        <p class="tagline">AI PREDICTION MODULE</p>
+        <h1>Case <span>Prediction</span></h1>
+        <p class="subtitle">
+            Predict whether a reported case is likely to be closed based on basic inputs.
+        </p>
+    </div>
+
+    <div class="graph-box predict-box">
+
+        <h3>Select Crime Details</h3>
+
+        <select id="crime">
+            <option>Theft</option>
+            <option>Assault</option>
+            <option>Robbery</option>
+            <option>Burglary</option>
+            <option>Fraud</option>
+            <option>Kidnapping</option>
+            <option>Homicide</option>
+            <option>Sexual Assault</option>
+            <option>Vandalism</option>
+            <option>Drug Offense</option>
+            <option>Cybercrime</option>
+        </select>
+
+        <input type="number" id="age" placeholder="Victim Age">
+
+        <select id="weapon">
+            <option>Knife</option>
+            <option>None</option>
+            <option>Firearm</option>
+            <option>Blunt Object</option>
+            <option>Poison</option>
+            <option>Explosive</option>
+            <option>Rod</option>
+            <option>Explosive</option>
+            <option>Physical</option>
+            <option>None</option>
+        </select>
+
+        <br><br>
+
+        <button onclick="predict()">Predict</button>
+
+        <div id="result"></div>
+
+    </div>
+
+    <a href="index.html" class="card card-red" style="width:220px; padding:15px; margin-top:20px;">
+        ⬅ Back to Home
+    </a>
+
+</div>
+
+</body>
+</html>

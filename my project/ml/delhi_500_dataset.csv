@@ -1,0 +1,512 @@
+City,Crime_Description,Victim_Age,Victim_Gender,Weapon_Used,Crime_Domain,Case_Closed
+delhi,ILLEGAL POSSESSION,11,F,Blunt Object,Other Crime,No
+delhi,ASSAULT,72,M,Knife,Violent Crime,Yes
+delhi,ASSAULT,62,M,Knife,Violent Crime,No
+delhi,FRAUD,45,M,Knife,Other Crime,Yes
+delhi,KIDNAPPING,11,F,Poison,Other Crime,No
+delhi,IDENTITY THEFT,17,F,Other,Violent Crime,No
+delhi,SEXUAL ASSAULT,18,M,Poison,Violent Crime,No
+delhi,FRAUD,48,F,Poison,Other Crime,Yes
+delhi,IDENTITY THEFT,39,F,Firearm,Violent Crime,Yes
+delhi,DOMESTIC VIOLENCE,77,M,Poison,Violent Crime,No
+delhi,IDENTITY THEFT,48,F,Poison,Violent Crime,No
+delhi,COUNTERFEITING,53,F,Other,Other Crime,No
+delhi,CYBERCRIME,71,X,Blunt Object,Other Crime,Yes
+delhi,DOMESTIC VIOLENCE,47,F,Poison,Violent Crime,Yes
+delhi,VEHICLE - STOLEN,68,F,Poison,Violent Crime,Yes
+delhi,BURGLARY,67,F,Explosives,Other Crime,No
+delhi,SHOPLIFTING,46,M,Blunt Object,Other Crime,Yes
+delhi,DRUG OFFENSE,77,M,Explosives,Other Crime,No
+delhi,EXTORTION,47,F,Firearm,Other Crime,Yes
+delhi,HOMICIDE,35,F,Explosives,Other Crime,No
+delhi,VANDALISM,51,M,Blunt Object,Other Crime,No
+delhi,EXTORTION,19,X,Blunt Object,Other Crime,No
+delhi,ARSON,67,F,Poison,Fire Accident,No
+delhi,CYBERCRIME,50,F,Explosives,Other Crime,No
+delhi,HOMICIDE,14,F,Poison,Other Crime,Yes
+delhi,VEHICLE - STOLEN,17,M,Knife,Violent Crime,No
+delhi,DOMESTIC VIOLENCE,49,M,Knife,Violent Crime,No
+delhi,HOMICIDE,52,F,Blunt Object,Other Crime,No
+delhi,FIREARM OFFENSE,49,F,Knife,Fire Accident,Yes
+delhi,VEHICLE - STOLEN,73,F,Other,Violent Crime,No
+delhi,CYBERCRIME,23,X,Knife,Other Crime,Yes
+delhi,SEXUAL ASSAULT,19,F,Blunt Object,Violent Crime,No
+delhi,SEXUAL ASSAULT,44,F,Knife,Violent Crime,No
+delhi,ARSON,15,F,Other,Fire Accident,No
+delhi,SHOPLIFTING,15,M,Knife,Other Crime,No
+delhi,SEXUAL ASSAULT,53,F,Poison,Violent Crime,Yes
+delhi,BURGLARY,20,M,Explosives,Other Crime,Yes
+delhi,KIDNAPPING,75,F,Other,Other Crime,No
+delhi,IDENTITY THEFT,48,F,Firearm,Violent Crime,Yes
+delhi,HOMICIDE,79,M,Explosives,Other Crime,Yes
+delhi,FIREARM OFFENSE,52,M,Firearm,Fire Accident,No
+delhi,FRAUD,56,F,Blunt Object,Other Crime,Yes
+delhi,SHOPLIFTING,66,X,Blunt Object,Other Crime,No
+delhi,ASSAULT,70,F,Firearm,Violent Crime,Yes
+delhi,VANDALISM,61,M,Poison,Other Crime,Yes
+delhi,SHOPLIFTING,78,F,Poison,Other Crime,No
+delhi,ILLEGAL POSSESSION,44,F,Firearm,Other Crime,No
+delhi,DRUG OFFENSE,51,M,Other,Other Crime,Yes
+delhi,COUNTERFEITING,19,F,Blunt Object,Other Crime,No
+delhi,TRAFFIC VIOLATION,77,M,Firearm,Traffic Fatality,Yes
+delhi,SEXUAL ASSAULT,58,M,Explosives,Violent Crime,No
+delhi,DOMESTIC VIOLENCE,55,M,Blunt Object,Violent Crime,No
+delhi,IDENTITY THEFT,29,F,Other,Violent Crime,Yes
+delhi,BURGLARY,67,F,Other,Other Crime,No
+delhi,VEHICLE - STOLEN,39,M,Blunt Object,Violent Crime,Yes
+delhi,ILLEGAL POSSESSION,74,F,Poison,Other Crime,Yes
+delhi,EXTORTION,78,M,Blunt Object,Other Crime,Yes
+delhi,SEXUAL ASSAULT,79,X,Other,Violent Crime,Yes
+delhi,ILLEGAL POSSESSION,24,F,Other,Other Crime,Yes
+delhi,ARSON,75,F,Blunt Object,Fire Accident,No
+delhi,ROBBERY,55,F,Explosives,Violent Crime,No
+delhi,ASSAULT,35,F,Poison,Violent Crime,Yes
+delhi,VEHICLE - STOLEN,10,X,Knife,Violent Crime,No
+delhi,DRUG OFFENSE,14,M,Explosives,Other Crime,No
+delhi,DOMESTIC VIOLENCE,53,X,Firearm,Violent Crime,No
+delhi,SEXUAL ASSAULT,44,F,Knife,Violent Crime,No
+delhi,VANDALISM,74,F,Firearm,Other Crime,Yes
+delhi,CYBERCRIME,60,M,Poison,Other Crime,Yes
+delhi,HOMICIDE,60,F,Explosives,Other Crime,No
+delhi,HOMICIDE,27,M,Poison,Other Crime,No
+delhi,DOMESTIC VIOLENCE,34,M,Blunt Object,Violent Crime,No
+delhi,ROBBERY,69,M,Firearm,Violent Crime,Yes
+delhi,VANDALISM,64,X,Blunt Object,Other Crime,No
+delhi,ARSON,43,M,Firearm,Fire Accident,No
+delhi,FRAUD,22,F,Other,Other Crime,Yes
+delhi,DRUG OFFENSE,46,M,Blunt Object,Other Crime,No
+delhi,IDENTITY THEFT,12,M,Other,Violent Crime,Yes
+delhi,FIREARM OFFENSE,34,M,Blunt Object,Fire Accident,No
+delhi,BURGLARY,77,F,Other,Other Crime,Yes
+delhi,VANDALISM,35,M,Poison,Other Crime,No
+delhi,DRUG OFFENSE,57,F,Knife,Other Crime,Yes
+delhi,FIREARM OFFENSE,66,F,Firearm,Fire Accident,Yes
+delhi,KIDNAPPING,24,X,Knife,Other Crime,Yes
+delhi,DRUG OFFENSE,26,F,Poison,Other Crime,No
+delhi,FIREARM OFFENSE,43,M,Other,Fire Accident,No
+delhi,ASSAULT,73,F,Explosives,Violent Crime,No
+delhi,IDENTITY THEFT,23,F,Knife,Violent Crime,No
+delhi,EXTORTION,16,M,Blunt Object,Other Crime,No
+delhi,BURGLARY,32,F,Poison,Other Crime,Yes
+delhi,DOMESTIC VIOLENCE,29,F,Blunt Object,Violent Crime,No
+delhi,ROBBERY,74,M,Firearm,Violent Crime,Yes
+delhi,ARSON,20,F,Poison,Fire Accident,No
+delhi,FRAUD,39,M,Blunt Object,Other Crime,Yes
+delhi,CYBERCRIME,58,X,Poison,Other Crime,No
+delhi,SHOPLIFTING,47,M,Explosives,Other Crime,Yes
+delhi,DRUG OFFENSE,49,F,Blunt Object,Other Crime,Yes
+delhi,TRAFFIC VIOLATION,14,M,Explosives,Traffic Fatality,Yes
+delhi,DRUG OFFENSE,67,F,Knife,Other Crime,Yes
+delhi,ARSON,78,M,Poison,Fire Accident,Yes
+delhi,IDENTITY THEFT,22,F,Explosives,Violent Crime,Yes
+delhi,BURGLARY,40,F,Explosives,Other Crime,Yes
+delhi,SEXUAL ASSAULT,75,M,Other,Violent Crime,No
+delhi,VANDALISM,12,M,Poison,Other Crime,Yes
+delhi,ASSAULT,69,F,Knife,Violent Crime,Yes
+delhi,IDENTITY THEFT,66,F,Other,Violent Crime,Yes
+delhi,CYBERCRIME,74,F,Knife,Other Crime,Yes
+delhi,SEXUAL ASSAULT,47,F,Knife,Violent Crime,No
+delhi,EXTORTION,79,M,Knife,Other Crime,No
+delhi,VEHICLE - STOLEN,76,F,Other,Violent Crime,No
+delhi,DOMESTIC VIOLENCE,33,F,Poison,Violent Crime,Yes
+delhi,ROBBERY,12,M,Explosives,Violent Crime,Yes
+delhi,PUBLIC INTOXICATION,19,X,Other,Other Crime,No
+delhi,EXTORTION,71,F,Poison,Other Crime,Yes
+delhi,KIDNAPPING,54,F,Explosives,Other Crime,Yes
+delhi,COUNTERFEITING,35,F,Firearm,Other Crime,No
+delhi,EXTORTION,73,M,Knife,Other Crime,Yes
+delhi,ASSAULT,41,F,Poison,Violent Crime,Yes
+delhi,SEXUAL ASSAULT,78,F,Explosives,Violent Crime,No
+delhi,PUBLIC INTOXICATION,18,F,Poison,Other Crime,Yes
+delhi,COUNTERFEITING,18,F,Explosives,Other Crime,Yes
+delhi,ARSON,66,F,Firearm,Fire Accident,No
+delhi,FIREARM OFFENSE,58,M,Other,Fire Accident,No
+delhi,DRUG OFFENSE,30,X,Firearm,Other Crime,Yes
+delhi,FRAUD,53,M,Blunt Object,Other Crime,No
+delhi,ILLEGAL POSSESSION,69,F,Poison,Other Crime,Yes
+delhi,DOMESTIC VIOLENCE,71,F,Firearm,Violent Crime,No
+delhi,ILLEGAL POSSESSION,36,F,Explosives,Other Crime,No
+delhi,ROBBERY,59,X,Firearm,Violent Crime,No
+delhi,TRAFFIC VIOLATION,71,X,Knife,Traffic Fatality,No
+delhi,EXTORTION,61,M,Explosives,Other Crime,No
+delhi,PUBLIC INTOXICATION,42,F,Blunt Object,Other Crime,No
+delhi,TRAFFIC VIOLATION,25,X,Explosives,Traffic Fatality,Yes
+delhi,DRUG OFFENSE,28,F,Blunt Object,Other Crime,Yes
+delhi,SEXUAL ASSAULT,12,M,Poison,Violent Crime,No
+delhi,SHOPLIFTING,53,F,Explosives,Other Crime,No
+delhi,DOMESTIC VIOLENCE,11,F,Blunt Object,Violent Crime,No
+delhi,BURGLARY,25,F,Firearm,Other Crime,Yes
+delhi,COUNTERFEITING,36,F,Knife,Other Crime,Yes
+delhi,BURGLARY,64,M,Other,Other Crime,Yes
+delhi,DRUG OFFENSE,59,F,Other,Other Crime,Yes
+delhi,VEHICLE - STOLEN,43,F,Explosives,Violent Crime,Yes
+delhi,CYBERCRIME,28,F,Knife,Other Crime,No
+delhi,PUBLIC INTOXICATION,64,M,Poison,Other Crime,Yes
+delhi,FIREARM OFFENSE,27,F,Poison,Fire Accident,No
+delhi,DOMESTIC VIOLENCE,33,M,Poison,Violent Crime,No
+delhi,HOMICIDE,62,F,Explosives,Other Crime,No
+delhi,ROBBERY,59,M,Explosives,Violent Crime,Yes
+delhi,DOMESTIC VIOLENCE,52,F,Blunt Object,Violent Crime,No
+delhi,FRAUD,62,F,Other,Other Crime,No
+delhi,SEXUAL ASSAULT,16,M,Knife,Violent Crime,No
+delhi,ILLEGAL POSSESSION,18,M,Knife,Other Crime,Yes
+delhi,ROBBERY,10,F,Knife,Violent Crime,Yes
+delhi,PUBLIC INTOXICATION,15,F,Poison,Other Crime,No
+delhi,FIREARM OFFENSE,26,F,Knife,Fire Accident,No
+delhi,DOMESTIC VIOLENCE,67,M,Firearm,Violent Crime,Yes
+delhi,PUBLIC INTOXICATION,64,X,Firearm,Other Crime,No
+delhi,FIREARM OFFENSE,58,M,Knife,Fire Accident,No
+delhi,VANDALISM,71,F,Poison,Other Crime,No
+delhi,ARSON,24,F,Explosives,Fire Accident,Yes
+delhi,IDENTITY THEFT,43,F,Knife,Violent Crime,Yes
+delhi,TRAFFIC VIOLATION,65,X,Knife,Traffic Fatality,Yes
+delhi,IDENTITY THEFT,18,F,Blunt Object,Violent Crime,No
+delhi,IDENTITY THEFT,32,M,Other,Violent Crime,Yes
+delhi,SHOPLIFTING,40,X,Explosives,Other Crime,Yes
+delhi,SHOPLIFTING,77,M,Poison,Other Crime,No
+delhi,COUNTERFEITING,78,F,Knife,Other Crime,Yes
+delhi,DOMESTIC VIOLENCE,31,F,Firearm,Violent Crime,No
+delhi,DRUG OFFENSE,57,M,Explosives,Other Crime,Yes
+delhi,ILLEGAL POSSESSION,77,F,Knife,Other Crime,No
+delhi,ASSAULT,12,M,Knife,Violent Crime,Yes
+delhi,HOMICIDE,30,M,Knife,Other Crime,No
+delhi,IDENTITY THEFT,34,F,Firearm,Violent Crime,Yes
+delhi,ILLEGAL POSSESSION,22,F,Firearm,Other Crime,No
+delhi,DRUG OFFENSE,54,F,Other,Other Crime,Yes
+delhi,PUBLIC INTOXICATION,16,F,Poison,Other Crime,Yes
+delhi,ARSON,23,F,Other,Fire Accident,No
+delhi,FRAUD,15,M,Knife,Other Crime,Yes
+delhi,SHOPLIFTING,44,F,Blunt Object,Other Crime,Yes
+delhi,PUBLIC INTOXICATION,25,M,Firearm,Other Crime,No
+delhi,VANDALISM,49,F,Firearm,Other Crime,No
+delhi,KIDNAPPING,75,M,Firearm,Other Crime,No
+delhi,VEHICLE - STOLEN,57,M,Firearm,Violent Crime,No
+delhi,ASSAULT,27,M,Blunt Object,Violent Crime,Yes
+delhi,ROBBERY,52,F,Firearm,Violent Crime,No
+delhi,DOMESTIC VIOLENCE,68,F,Poison,Violent Crime,No
+delhi,DOMESTIC VIOLENCE,28,F,Other,Violent Crime,Yes
+delhi,ARSON,70,X,Other,Fire Accident,No
+delhi,ASSAULT,47,F,Firearm,Violent Crime,Yes
+delhi,SEXUAL ASSAULT,11,M,Poison,Violent Crime,Yes
+delhi,COUNTERFEITING,53,X,Knife,Other Crime,Yes
+delhi,VANDALISM,55,F,Knife,Other Crime,Yes
+delhi,HOMICIDE,37,F,Blunt Object,Other Crime,Yes
+delhi,CYBERCRIME,61,F,Blunt Object,Other Crime,Yes
+delhi,CYBERCRIME,36,M,Explosives,Other Crime,No
+delhi,EXTORTION,75,F,Knife,Other Crime,No
+delhi,TRAFFIC VIOLATION,21,M,Explosives,Traffic Fatality,Yes
+delhi,SHOPLIFTING,19,F,Firearm,Other Crime,No
+delhi,CYBERCRIME,27,F,Knife,Other Crime,Yes
+delhi,VANDALISM,22,M,Knife,Other Crime,No
+delhi,SEXUAL ASSAULT,78,M,Knife,Violent Crime,Yes
+delhi,SEXUAL ASSAULT,13,F,Firearm,Violent Crime,No
+delhi,KIDNAPPING,48,M,Explosives,Other Crime,No
+delhi,COUNTERFEITING,24,M,Knife,Other Crime,No
+delhi,VANDALISM,77,M,Poison,Other Crime,Yes
+delhi,FRAUD,72,F,Other,Other Crime,No
+delhi,CYBERCRIME,61,F,Other,Other Crime,Yes
+delhi,COUNTERFEITING,28,M,Explosives,Other Crime,Yes
+delhi,VEHICLE - STOLEN,40,M,Explosives,Violent Crime,No
+delhi,ROBBERY,40,M,Explosives,Violent Crime,Yes
+delhi,COUNTERFEITING,16,M,Blunt Object,Other Crime,Yes
+delhi,FIREARM OFFENSE,13,M,Poison,Fire Accident,No
+delhi,ROBBERY,70,X,Knife,Violent Crime,No
+delhi,ARSON,75,F,Knife,Fire Accident,No
+delhi,TRAFFIC VIOLATION,61,F,Explosives,Traffic Fatality,No
+delhi,ILLEGAL POSSESSION,49,M,Knife,Other Crime,Yes
+delhi,VEHICLE - STOLEN,17,M,Other,Violent Crime,Yes
+delhi,KIDNAPPING,38,X,Knife,Other Crime,No
+delhi,IDENTITY THEFT,20,F,Other,Violent Crime,Yes
+delhi,HOMICIDE,48,F,Other,Other Crime,No
+delhi,DRUG OFFENSE,51,F,Knife,Other Crime,No
+delhi,VEHICLE - STOLEN,43,M,Blunt Object,Violent Crime,Yes
+delhi,ILLEGAL POSSESSION,56,F,Explosives,Other Crime,No
+delhi,HOMICIDE,56,M,Other,Other Crime,No
+delhi,HOMICIDE,17,M,Blunt Object,Other Crime,Yes
+delhi,TRAFFIC VIOLATION,29,M,Explosives,Traffic Fatality,Yes
+delhi,VEHICLE - STOLEN,34,F,Other,Violent Crime,Yes
+delhi,VEHICLE - STOLEN,68,F,Explosives,Violent Crime,Yes
+delhi,TRAFFIC VIOLATION,60,F,Explosives,Traffic Fatality,Yes
+delhi,ROBBERY,22,M,Poison,Violent Crime,No
+delhi,SEXUAL ASSAULT,72,F,Poison,Violent Crime,Yes
+delhi,FIREARM OFFENSE,49,M,Poison,Fire Accident,No
+delhi,ARSON,60,M,Blunt Object,Fire Accident,No
+delhi,CYBERCRIME,20,F,Firearm,Other Crime,Yes
+delhi,COUNTERFEITING,39,F,Blunt Object,Other Crime,No
+delhi,COUNTERFEITING,76,F,Firearm,Other Crime,No
+delhi,HOMICIDE,44,M,Explosives,Other Crime,No
+delhi,HOMICIDE,58,F,Other,Other Crime,Yes
+delhi,IDENTITY THEFT,26,F,Blunt Object,Violent Crime,No
+delhi,ILLEGAL POSSESSION,24,M,Knife,Other Crime,Yes
+delhi,SEXUAL ASSAULT,30,F,Explosives,Violent Crime,No
+delhi,ROBBERY,47,X,Knife,Violent Crime,Yes
+delhi,COUNTERFEITING,62,F,Blunt Object,Other Crime,No
+delhi,IDENTITY THEFT,24,F,Explosives,Violent Crime,Yes
+delhi,IDENTITY THEFT,30,F,Knife,Violent Crime,No
+delhi,IDENTITY THEFT,47,F,Blunt Object,Violent Crime,Yes
+delhi,CYBERCRIME,19,F,Other,Other Crime,Yes
+delhi,TRAFFIC VIOLATION,19,F,Blunt Object,Traffic Fatality,Yes
+delhi,EXTORTION,41,M,Firearm,Other Crime,No
+delhi,VEHICLE - STOLEN,24,F,Explosives,Violent Crime,Yes
+delhi,IDENTITY THEFT,31,F,Knife,Violent Crime,Yes
+delhi,DRUG OFFENSE,26,X,Firearm,Other Crime,No
+delhi,DRUG OFFENSE,25,M,Blunt Object,Other Crime,No
+delhi,BURGLARY,20,F,Explosives,Other Crime,Yes
+delhi,HOMICIDE,62,M,Firearm,Other Crime,Yes
+delhi,PUBLIC INTOXICATION,56,X,Knife,Other Crime,Yes
+delhi,ILLEGAL POSSESSION,48,F,Firearm,Other Crime,No
+delhi,ROBBERY,34,X,Poison,Violent Crime,Yes
+delhi,DRUG OFFENSE,60,F,Knife,Other Crime,Yes
+delhi,CYBERCRIME,29,F,Other,Other Crime,Yes
+delhi,FIREARM OFFENSE,33,F,Explosives,Fire Accident,No
+delhi,KIDNAPPING,33,F,Knife,Other Crime,No
+delhi,IDENTITY THEFT,44,M,Firearm,Violent Crime,Yes
+delhi,ROBBERY,61,F,Knife,Violent Crime,No
+delhi,HOMICIDE,24,F,Poison,Other Crime,Yes
+delhi,FRAUD,15,F,Firearm,Other Crime,No
+delhi,HOMICIDE,58,F,Poison,Other Crime,Yes
+delhi,VEHICLE - STOLEN,13,M,Poison,Violent Crime,No
+delhi,DOMESTIC VIOLENCE,73,F,Firearm,Violent Crime,No
+delhi,HOMICIDE,48,F,Explosives,Other Crime,No
+delhi,SHOPLIFTING,28,X,Blunt Object,Other Crime,Yes
+delhi,DRUG OFFENSE,70,X,Explosives,Other Crime,Yes
+delhi,DOMESTIC VIOLENCE,12,M,Firearm,Violent Crime,No
+delhi,DRUG OFFENSE,59,M,Explosives,Other Crime,No
+delhi,BURGLARY,39,F,Knife,Other Crime,Yes
+delhi,ASSAULT,70,M,Knife,Violent Crime,Yes
+delhi,FRAUD,73,F,Knife,Other Crime,Yes
+delhi,FRAUD,16,F,Poison,Other Crime,No
+delhi,TRAFFIC VIOLATION,40,F,Explosives,Traffic Fatality,No
+delhi,DOMESTIC VIOLENCE,61,X,Explosives,Violent Crime,No
+delhi,FRAUD,45,F,Poison,Other Crime,No
+delhi,VEHICLE - STOLEN,54,F,Firearm,Violent Crime,Yes
+delhi,IDENTITY THEFT,15,M,Firearm,Violent Crime,No
+delhi,KIDNAPPING,49,F,Explosives,Other Crime,Yes
+delhi,ROBBERY,44,F,Knife,Violent Crime,Yes
+delhi,ASSAULT,40,M,Other,Violent Crime,No
+delhi,FRAUD,40,M,Knife,Other Crime,Yes
+delhi,SHOPLIFTING,74,F,Blunt Object,Other Crime,Yes
+delhi,BURGLARY,13,M,Other,Other Crime,Yes
+delhi,COUNTERFEITING,55,F,Explosives,Other Crime,Yes
+delhi,DRUG OFFENSE,14,M,Explosives,Other Crime,Yes
+delhi,ARSON,32,M,Blunt Object,Fire Accident,Yes
+delhi,IDENTITY THEFT,40,F,Explosives,Violent Crime,Yes
+delhi,PUBLIC INTOXICATION,35,M,Knife,Other Crime,No
+delhi,ARSON,78,F,Explosives,Fire Accident,No
+delhi,SHOPLIFTING,51,M,Poison,Other Crime,Yes
+delhi,CYBERCRIME,12,F,Explosives,Other Crime,No
+delhi,DRUG OFFENSE,66,M,Firearm,Other Crime,Yes
+delhi,DRUG OFFENSE,25,F,Firearm,Other Crime,No
+delhi,TRAFFIC VIOLATION,51,M,Other,Traffic Fatality,No
+delhi,ARSON,17,F,Blunt Object,Fire Accident,Yes
+delhi,ILLEGAL POSSESSION,75,M,Blunt Object,Other Crime,No
+delhi,FIREARM OFFENSE,76,F,Poison,Fire Accident,No
+delhi,FIREARM OFFENSE,36,F,Knife,Fire Accident,Yes
+delhi,TRAFFIC VIOLATION,52,M,Knife,Traffic Fatality,Yes
+delhi,DOMESTIC VIOLENCE,72,F,Poison,Violent Crime,No
+delhi,TRAFFIC VIOLATION,10,F,Poison,Traffic Fatality,Yes
+delhi,CYBERCRIME,74,M,Blunt Object,Other Crime,No
+delhi,DRUG OFFENSE,23,F,Other,Other Crime,No
+delhi,KIDNAPPING,12,M,Firearm,Other Crime,No
+delhi,ROBBERY,72,F,Firearm,Violent Crime,No
+delhi,ASSAULT,62,F,Blunt Object,Violent Crime,No
+delhi,CYBERCRIME,73,X,Other,Other Crime,No
+delhi,VEHICLE - STOLEN,54,M,Knife,Violent Crime,Yes
+delhi,DRUG OFFENSE,73,M,Blunt Object,Other Crime,Yes
+delhi,VANDALISM,31,F,Knife,Other Crime,Yes
+delhi,COUNTERFEITING,43,X,Explosives,Other Crime,Yes
+delhi,BURGLARY,33,X,Blunt Object,Other Crime,No
+delhi,TRAFFIC VIOLATION,15,F,Firearm,Traffic Fatality,Yes
+delhi,FIREARM OFFENSE,67,M,Knife,Fire Accident,Yes
+delhi,DOMESTIC VIOLENCE,20,F,Other,Violent Crime,Yes
+delhi,PUBLIC INTOXICATION,79,F,Explosives,Other Crime,Yes
+delhi,COUNTERFEITING,52,F,Blunt Object,Other Crime,Yes
+delhi,ROBBERY,19,M,Explosives,Violent Crime,No
+delhi,TRAFFIC VIOLATION,74,F,Poison,Traffic Fatality,No
+delhi,DOMESTIC VIOLENCE,22,F,Other,Violent Crime,No
+delhi,FRAUD,56,M,Knife,Other Crime,No
+delhi,FRAUD,67,F,Blunt Object,Other Crime,No
+delhi,ARSON,23,M,Other,Fire Accident,Yes
+delhi,COUNTERFEITING,69,F,Knife,Other Crime,Yes
+delhi,VEHICLE - STOLEN,18,F,Poison,Violent Crime,Yes
+delhi,SEXUAL ASSAULT,30,F,Other,Violent Crime,No
+delhi,SEXUAL ASSAULT,76,F,Poison,Violent Crime,Yes
+delhi,KIDNAPPING,22,X,Explosives,Other Crime,No
+delhi,SHOPLIFTING,52,M,Poison,Other Crime,Yes
+delhi,CYBERCRIME,60,F,Knife,Other Crime,No
+delhi,DRUG OFFENSE,59,M,Knife,Other Crime,Yes
+delhi,ILLEGAL POSSESSION,59,F,Firearm,Other Crime,Yes
+delhi,SHOPLIFTING,30,M,Blunt Object,Other Crime,No
+delhi,HOMICIDE,57,M,Explosives,Other Crime,Yes
+delhi,KIDNAPPING,49,F,Explosives,Other Crime,Yes
+delhi,FRAUD,12,M,Firearm,Other Crime,No
+delhi,SEXUAL ASSAULT,21,F,Other,Violent Crime,No
+delhi,FIREARM OFFENSE,74,F,Blunt Object,Fire Accident,Yes
+delhi,IDENTITY THEFT,39,M,Firearm,Violent Crime,No
+delhi,CYBERCRIME,24,F,Firearm,Other Crime,Yes
+delhi,DRUG OFFENSE,10,X,Blunt Object,Other Crime,No
+delhi,EXTORTION,75,F,Explosives,Other Crime,Yes
+delhi,DRUG OFFENSE,25,X,Knife,Other Crime,No
+delhi,COUNTERFEITING,59,X,Knife,Other Crime,Yes
+delhi,PUBLIC INTOXICATION,53,X,Other,Other Crime,Yes
+delhi,BURGLARY,46,M,Other,Other Crime,Yes
+delhi,DRUG OFFENSE,21,F,Blunt Object,Other Crime,No
+delhi,FIREARM OFFENSE,73,F,Poison,Fire Accident,No
+delhi,SHOPLIFTING,59,X,Blunt Object,Other Crime,Yes
+delhi,ASSAULT,35,M,Blunt Object,Violent Crime,No
+delhi,SEXUAL ASSAULT,40,M,Blunt Object,Violent Crime,Yes
+delhi,IDENTITY THEFT,20,M,Firearm,Violent Crime,Yes
+delhi,PUBLIC INTOXICATION,51,M,Blunt Object,Other Crime,Yes
+delhi,HOMICIDE,20,M,Poison,Other Crime,Yes
+delhi,ILLEGAL POSSESSION,43,X,Poison,Other Crime,No
+delhi,DOMESTIC VIOLENCE,26,F,Blunt Object,Violent Crime,No
+delhi,IDENTITY THEFT,16,M,Blunt Object,Violent Crime,No
+delhi,CYBERCRIME,39,M,Poison,Other Crime,Yes
+delhi,ROBBERY,73,F,Poison,Violent Crime,No
+delhi,ASSAULT,46,M,Blunt Object,Violent Crime,No
+delhi,COUNTERFEITING,64,F,Blunt Object,Other Crime,Yes
+delhi,ASSAULT,67,M,Firearm,Violent Crime,Yes
+delhi,FIREARM OFFENSE,79,X,Other,Fire Accident,No
+delhi,FRAUD,32,M,Knife,Other Crime,No
+delhi,HOMICIDE,13,F,Other,Other Crime,No
+delhi,HOMICIDE,74,M,Knife,Other Crime,Yes
+delhi,ROBBERY,63,F,Explosives,Violent Crime,No
+delhi,SHOPLIFTING,63,X,Other,Other Crime,No
+delhi,IDENTITY THEFT,46,M,Poison,Violent Crime,Yes
+delhi,VANDALISM,37,F,Blunt Object,Other Crime,No
+delhi,ROBBERY,76,F,Knife,Violent Crime,Yes
+delhi,FRAUD,11,X,Other,Other Crime,Yes
+delhi,EXTORTION,47,F,Blunt Object,Other Crime,Yes
+delhi,COUNTERFEITING,63,F,Knife,Other Crime,Yes
+delhi,SEXUAL ASSAULT,73,F,Other,Violent Crime,Yes
+delhi,IDENTITY THEFT,56,F,Knife,Violent Crime,Yes
+delhi,COUNTERFEITING,16,M,Blunt Object,Other Crime,Yes
+delhi,COUNTERFEITING,75,F,Poison,Other Crime,Yes
+delhi,ILLEGAL POSSESSION,44,M,Firearm,Other Crime,Yes
+delhi,ARSON,27,X,Blunt Object,Fire Accident,Yes
+delhi,IDENTITY THEFT,24,F,Blunt Object,Violent Crime,No
+delhi,DRUG OFFENSE,62,M,Firearm,Other Crime,No
+delhi,KIDNAPPING,39,M,Explosives,Other Crime,No
+delhi,ROBBERY,56,F,Blunt Object,Violent Crime,Yes
+delhi,EXTORTION,70,M,Knife,Other Crime,No
+delhi,DOMESTIC VIOLENCE,53,F,Firearm,Violent Crime,No
+delhi,PUBLIC INTOXICATION,77,F,Blunt Object,Other Crime,No
+delhi,COUNTERFEITING,51,M,Other,Other Crime,No
+delhi,SEXUAL ASSAULT,22,F,Explosives,Violent Crime,Yes
+delhi,COUNTERFEITING,35,X,Poison,Other Crime,Yes
+delhi,FRAUD,28,M,Knife,Other Crime,No
+delhi,PUBLIC INTOXICATION,40,M,Explosives,Other Crime,Yes
+delhi,CYBERCRIME,74,F,Blunt Object,Other Crime,Yes
+delhi,FRAUD,24,F,Explosives,Other Crime,Yes
+delhi,ROBBERY,76,F,Firearm,Violent Crime,No
+delhi,HOMICIDE,59,F,Blunt Object,Other Crime,No
+delhi,TRAFFIC VIOLATION,74,X,Other,Traffic Fatality,No
+delhi,ILLEGAL POSSESSION,51,M,Knife,Other Crime,No
+delhi,KIDNAPPING,24,F,Firearm,Other Crime,No
+delhi,TRAFFIC VIOLATION,39,F,Other,Traffic Fatality,No
+delhi,ILLEGAL POSSESSION,22,M,Firearm,Other Crime,Yes
+delhi,ASSAULT,45,F,Other,Violent Crime,Yes
+delhi,VEHICLE - STOLEN,18,F,Blunt Object,Violent Crime,No
+delhi,KIDNAPPING,30,F,Other,Other Crime,Yes
+delhi,VANDALISM,70,X,Knife,Other Crime,No
+delhi,SEXUAL ASSAULT,53,F,Blunt Object,Violent Crime,Yes
+delhi,VANDALISM,26,F,Blunt Object,Other Crime,Yes
+delhi,COUNTERFEITING,71,F,Explosives,Other Crime,Yes
+delhi,VEHICLE - STOLEN,18,F,Poison,Violent Crime,Yes
+delhi,VEHICLE - STOLEN,13,F,Other,Violent Crime,No
+delhi,IDENTITY THEFT,61,F,Knife,Violent Crime,No
+delhi,IDENTITY THEFT,51,F,Other,Violent Crime,Yes
+delhi,DRUG OFFENSE,35,F,Firearm,Other Crime,No
+delhi,KIDNAPPING,18,M,Knife,Other Crime,Yes
+delhi,EXTORTION,23,F,Firearm,Other Crime,Yes
+delhi,IDENTITY THEFT,14,F,Poison,Violent Crime,Yes
+delhi,ARSON,65,F,Explosives,Fire Accident,No
+delhi,PUBLIC INTOXICATION,66,F,Firearm,Other Crime,Yes
+delhi,DRUG OFFENSE,39,M,Knife,Other Crime,Yes
+delhi,SEXUAL ASSAULT,26,F,Firearm,Violent Crime,Yes
+delhi,FIREARM OFFENSE,58,F,Explosives,Fire Accident,No
+delhi,ASSAULT,38,F,Knife,Violent Crime,No
+delhi,EXTORTION,63,M,Poison,Other Crime,No
+delhi,VEHICLE - STOLEN,18,M,Explosives,Violent Crime,Yes
+delhi,FIREARM OFFENSE,38,F,Poison,Fire Accident,No
+delhi,FRAUD,65,F,Other,Other Crime,Yes
+delhi,EXTORTION,49,M,Poison,Other Crime,Yes
+delhi,CYBERCRIME,51,F,Blunt Object,Other Crime,Yes
+delhi,IDENTITY THEFT,26,M,Knife,Violent Crime,No
+delhi,FRAUD,47,M,Knife,Other Crime,Yes
+delhi,DRUG OFFENSE,61,X,Other,Other Crime,Yes
+delhi,BURGLARY,34,F,Poison,Other Crime,Yes
+delhi,PUBLIC INTOXICATION,32,F,Knife,Other Crime,No
+delhi,ARSON,35,F,Other,Fire Accident,No
+delhi,TRAFFIC VIOLATION,24,M,Other,Traffic Fatality,Yes
+delhi,VANDALISM,79,M,Explosives,Other Crime,Yes
+delhi,VEHICLE - STOLEN,40,F,Poison,Violent Crime,No
+delhi,IDENTITY THEFT,23,F,Firearm,Violent Crime,No
+delhi,COUNTERFEITING,51,M,Explosives,Other Crime,No
+delhi,SEXUAL ASSAULT,16,F,Blunt Object,Violent Crime,Yes
+delhi,ILLEGAL POSSESSION,64,F,Explosives,Other Crime,Yes
+delhi,CYBERCRIME,10,F,Firearm,Other Crime,No
+delhi,KIDNAPPING,16,F,Knife,Other Crime,Yes
+delhi,VANDALISM,64,F,Explosives,Other Crime,Yes
+delhi,IDENTITY THEFT,50,F,Other,Violent Crime,No
+delhi,SHOPLIFTING,59,M,Knife,Other Crime,No
+delhi,EXTORTION,12,F,Poison,Other Crime,No
+delhi,ARSON,42,M,Poison,Fire Accident,Yes
+delhi,ASSAULT,77,F,Other,Violent Crime,Yes
+delhi,VANDALISM,18,M,Explosives,Other Crime,Yes
+delhi,ILLEGAL POSSESSION,47,F,Other,Other Crime,Yes
+delhi,COUNTERFEITING,55,M,Firearm,Other Crime,Yes
+delhi,PUBLIC INTOXICATION,55,F,Poison,Other Crime,No
+delhi,FIREARM OFFENSE,38,F,Firearm,Fire Accident,No
+delhi,EXTORTION,50,F,Firearm,Other Crime,No
+delhi,ROBBERY,15,M,Other,Violent Crime,No
+delhi,HOMICIDE,42,F,Poison,Other Crime,No
+delhi,COUNTERFEITING,24,M,Firearm,Other Crime,Yes
+delhi,ILLEGAL POSSESSION,50,F,Firearm,Other Crime,Yes
+delhi,IDENTITY THEFT,32,X,Blunt Object,Violent Crime,Yes
+delhi,CYBERCRIME,35,X,Knife,Other Crime,No
+delhi,ROBBERY,17,F,Poison,Violent Crime,No
+delhi,PUBLIC INTOXICATION,37,M,Other,Other Crime,No
+delhi,DOMESTIC VIOLENCE,44,F,Explosives,Violent Crime,Yes
+delhi,SEXUAL ASSAULT,15,F,Other,Violent Crime,No
+delhi,DRUG OFFENSE,53,X,Knife,Other Crime,No
+delhi,FIREARM OFFENSE,76,F,Other,Fire Accident,Yes
+delhi,FRAUD,25,M,Blunt Object,Other Crime,No
+delhi,VEHICLE - STOLEN,42,X,Explosives,Violent Crime,No
+delhi,ILLEGAL POSSESSION,29,M,Knife,Other Crime,Yes
+delhi,EXTORTION,78,M,Blunt Object,Other Crime,No
+delhi,ARSON,66,F,Knife,Fire Accident,No
+delhi,PUBLIC INTOXICATION,37,F,Explosives,Other Crime,Yes
+delhi,FIREARM OFFENSE,53,M,Poison,Fire Accident,Yes
+delhi,PUBLIC INTOXICATION,46,F,Knife,Other Crime,No
+delhi,BURGLARY,30,M,Explosives,Other Crime,No
+delhi,HOMICIDE,50,M,Blunt Object,Other Crime,No
+delhi,SEXUAL ASSAULT,54,M,Other,Violent Crime,Yes
+delhi,DOMESTIC VIOLENCE,26,X,Blunt Object,Violent Crime,Yes
+delhi,VEHICLE - STOLEN,29,F,Firearm,Violent Crime,No
+delhi,VANDALISM,21,M,Blunt Object,Other Crime,No
+delhi,DRUG OFFENSE,26,F,Other,Other Crime,Yes
+delhi,SHOPLIFTING,31,M,Firearm,Other Crime,No
+delhi,ILLEGAL POSSESSION,48,X,Explosives,Other Crime,Yes
+delhi,IDENTITY THEFT,54,F,Explosives,Violent Crime,No
+delhi,SEXUAL ASSAULT,43,M,Other,Violent Crime,No
+delhi,CYBERCRIME,65,F,Poison,Other Crime,No
+delhi,VANDALISM,27,M,Knife,Other Crime,Yes
+delhi,FIREARM OFFENSE,14,F,Blunt Object,Fire Accident,No
+delhi,DOMESTIC VIOLENCE,76,M,Knife,Violent Crime,No
+delhi,PUBLIC INTOXICATION,16,X,Other,Other Crime,No
+delhi,KIDNAPPING,19,M,Knife,Other Crime,No
+delhi,BURGLARY,15,M,Other,Other Crime,Yes
+delhi,SHOPLIFTING,23,M,Firearm,Other Crime,Yes
+delhi,ARSON,68,F,Firearm,Fire Accident,No
+delhi,ROBBERY,68,M,Firearm,Violent Crime,No
+delhi,VEHICLE - STOLEN,21,F,Explosives,Violent Crime,Yes
+delhi,VEHICLE - STOLEN,75,F,Other,Violent Crime,No
+delhi,TRAFFIC VIOLATION,15,F,Poison,Traffic Fatality,No
+delhi,SHOPLIFTING,51,M,Other,Other Crime,No
+delhi,CYBERCRIME,43,X,Other,Other Crime,No
+delhi,HOMICIDE,41,F,Explosives,Other Crime,No
+delhi,TRAFFIC VIOLATION,38,F,Blunt Object,Traffic Fatality,Yes
+delhi,DRUG OFFENSE,32,F,Other,Other Crime,Yes
+delhi,ARSON,73,F,Blunt Object,Fire Accident,Yes
+delhi,IDENTITY THEFT,67,X,Blunt Object,Violent Crime,No
